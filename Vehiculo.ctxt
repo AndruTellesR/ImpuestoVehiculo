@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Vehiculo
+comment1.params=
+comment1.target=Vehiculo()
+comment10.params=
+comment10.target=java.lang.Double\ getPrecio()
+comment2.params=marca\ linea\ modelo\ precio
+comment2.target=void\ Vehiculo(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.Double)
+comment3.params=marca
+comment3.target=void\ setMarca(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getMarca()
+comment5.params=linea
+comment5.target=void\ setLinea(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getLinea()
+comment7.params=modelo
+comment7.target=void\ setModelo(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getModelo()
+comment9.params=precio
+comment9.target=void\ setPrecio(java.lang.Double)
+numComments=11
